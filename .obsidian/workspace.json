@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "6db3b019afe8da7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7686c5fc847eda73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062aff9a0e4af3d5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "01 - Investigating Telecom Churn/data"
+              },
+              "icon": "lucide-file",
+              "title": "data"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b44ac0da1d18952a",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d0b2c9fb22a354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fd4dc7313241fde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "638eed2dd27ba179",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ddbce32d56dd9eca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7eb3019f8a05af12",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78fc59c25112ca33",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87c2a63add9dfc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f87d015e732fc474",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fb2b569fad7d8ed1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "64029c7c802e6cf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8682f54f19168af8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a1946d0eb81472e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "062aff9a0e4af3d5",
+  "lastOpenFiles": [
+    "01 - Investigating Telecom Churn/Untitled.md",
+    "01 - Investigating Telecom Churn/README.md",
+    "README.md",
+    "01 - Investigating Telecom Churn/notebook/Hypothesis-Driven Analysis of Telecom Customer Churn.ipynb",
+    "01 - Investigating Telecom Churn/data/telecom_usage.csv",
+    "01 - Investigating Telecom Churn/data/telecom_demographics.csv",
+    "01 - Investigating Telecom Churn/01 - Hypothesis Testing - Telecom Churn.md",
+    "01 - Investigating Telecom Churn/notebook",
+    "01 - Investigating Telecom Churn/data",
+    "01 - Investigating Telecom Churn",
+    "01 - Hypothesis Testing - Telecom Churn/01 - Hypothesis Testing - Telecom Churn.md",
+    "Untitled.md",
+    "telecom-churn-prediction-hypothesis-test/telecom-churn-prediction-hypothesis-test.md",
+    "telecom-churn-prediction-hypothesis-test/Untitled.md",
+    "01 - Hypothesis Testing - Telecom Churn",
+    "Tags",
+    "01 - Hypothesis Testing - Telecom Churn/notebook/Hypothesis-Driven Analysis of Telecom Customer Churn.ipynb",
+    "01 - Hypothesis Testing - Telecom Churn/notebook",
+    "01 - Hypothesis Testing - Telecom Churn/README.md"
+  ]
+}
